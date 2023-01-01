@@ -12,8 +12,8 @@ from scipy import ndimage
 from tkinter import filedialog
 import pandas as pd
 import seaborn as sn
-# import tensorflow as tf
-# from tensorflow.keras.preprocessing.image import ImageDataGenerator, load_img
+import tensorflow as tf
+from tensorflow.keras.preprocessing.image import ImageDataGenerator, load_img
 
 
 from skimage.util import random_noise
